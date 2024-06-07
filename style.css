@@ -24,4 +24,11 @@ body {
 }
 .duma-a-semmirol {
     background-color: lightgray;
+    text-align: justify;
+}
+.welcome-text, .why-went-there {
+    margin: 30px;
+}
+#map {
+    margin: 19px;
 }
