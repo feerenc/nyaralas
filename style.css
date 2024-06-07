@@ -14,3 +14,14 @@
 .journal-entry {
     margin-bottom: 2em;
 }
+.site-container {
+    margin: 0 auto;
+    max-width: 960px;
+}
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+.welcome-and-why-i-went-there {
+    background-color: gray;
+}
